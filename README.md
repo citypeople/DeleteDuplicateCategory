@@ -1,0 +1,2 @@
+# DeleteDuplicateCategory
+for SimplaCMS
